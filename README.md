@@ -27,11 +27,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=vision-friendly-dark)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark)
 
 ---
 

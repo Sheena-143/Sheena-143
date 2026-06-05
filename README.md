@@ -1,49 +1,93 @@
-# Hi there, I'm Amit Adhikari! 👋
-### Software Development Engineer | Backend & Distributed Systems
+<div align="center">
+  <h1>👋 Hi, I'm Amit Adhikari</h1>
+  <p><strong>Software Development Engineer | Backend & Distributed Systems</strong></p>
+  <p>📍 Gadchiroli, Maharashtra, India</p>
 
-I am a backend-focused Software Development Engineer passionate about building scalable, resilient, and mission-critical distributed systems. My core expertise lies in the **Java ecosystem (Spring Boot)**, microservices architectures, database optimization, and cloud foundations. 
-
-Whether it's diving deep into runtime exceptions, optimizing database queries, or containerizing applications for cloud deployment, I love solving complex engineering puzzles.
-
----
-
-### 🛠️ Technical Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
-| **Backend & Architecture** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-v2.0?style=flat&color=blue) ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) |
-| **Databases & Caching** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2_Database-DarkBlue?style=flat) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) |
-| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) |
-| **Testing & Agile** | ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-Green?style=flat) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) |
+  <p>
+    <a href="https://linkedin.com/in/adhikariamit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:amitads360@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Professional Summary
 
-#### 🛒 [Distributed E-Commerce Microservices Platform](https://github.com/Sheena-143/your-repo-link)
-*   **Tech Stack:** Java, Spring Boot, MySQL, JDBC, JWT, Docker
-*   Architected a decoupled, decentralized microservices infrastructure to handle high-concurrency e-commerce workloads.
-*   Optimized custom relational database schemas and index usage, reducing API response times by **20%** under simulated traffic.
-*   Containerized services using Docker to guarantee environment consistency across local and CI/CD pipelines.
-
-#### 👁️ [AI-Driven Diagnostic Software Engine](https://github.com/Sheena-143/your-repo-link)
-*   **Tech Stack:** Python, Image Processing, Machine Learning
-*   Engineered a high-performance computer vision tool for early automated glaucoma identification, achieving an **85%+ verification accuracy rate**.
-*   Optimized image matrix manipulation pipelines and designed clean data visualization layers for predictive datasets.
+I am a backend-focused Software Development Engineer specializing in building scalable, resilient, and high-performance distributed systems. With deep foundations in the **Java ecosystem (Spring Boot)**, microservices architectures, and relational database optimization, I excel at transforming ambiguous requirements into production-ready software. From optimizing query execution pipelines to conducting systematic root-cause analyses on runtime exceptions, I enjoy tackling complex, low-latency infrastructure puzzles.
 
 ---
 
-### 🧠 Core Passions & Focus Areas
-*   **Algorithmic Puzzles:** Deep-diving into Data Structures & Algorithms (DSA) and concurrent programming.
-*   **System Internals:** Researching distributed database storage engines, indexing strategies, and replication concepts.
-*   **Cloud Architecture:** Actively mastering AWS ecosystem design patterns (currently tracking towards AWS Cloud Practitioner certification).
+### 🛠️ Core Technical Arsenal
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Core Concepts</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <br />
+      <code>Data Structures & Algorithms (DSA)</code> • <code>OOPs</code> • <code>Multithreading & Concurrency</code> • <code>Design Patterns</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Distributed Systems</h4>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Framework" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
+      <br />
+      <code>Microservices Architecture</code> • <code>RESTful API Design</code> • <code>API Gateways</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases & Caching</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+      <br />
+      <code>JDBC</code> • <code>H2 Database</code> • <code>Distributed Indexing & Storage Basics</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐋 DevOps & Cloud Infrastructure</h4>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Connect with Me
-*   **LinkedIn:** [linkedin.com/in/adhikariamit](https://linkedin.com/in/adhikariamit)
-*   **Email:** [amitads360@gmail.com](mailto:amitads360@gmail.com)
-*   **Location:** Gadchiroli, Maharashtra, India
+### 📈 GitHub Ecosystem Insights
 
-⚡ *Fun fact: I love navigating through highly ambiguous system bugs and performing deep root-cause analysis until the code runs seamlessly!*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheena-143&show_icons=true&theme=visual_studio_dark&count_private=true&hide_border=true" alt="Amit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheena-143&layout=compact&theme=visual_studio_dark&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 🧪 Highlighted Engineering Projects
+
+#### 🛒 [Distributed E-Commerce Microservices Platform](https://github.com/Sheena-143)
+> **Tech Stack:** Java, Spring Boot, MySQL, JDBC, JWT, Docker
+*   **Architecture:** Engineered a decoupled microservices architecture designed to maintain high-availability and fault isolation during simulated high-concurrency request surges.
+*   **Performance Optimization:** Analyzed index usage patterns and refactored underlying relational database queries, successfully driving down API response times by **20%**.
+*   **Containerization:** Packaged individual core services using Docker to guarantee environment parity and seamless horizontal deployment structures across testing pipelines.
+
+#### 👁️ [AI-Driven Diagnostic Software Engine](https://github.com/Sheena-143)
+> **Tech Stack:** Python, Image Processing, Machine Learning
+*   **ML Pipeline:** Programmed an automated computer vision identification framework using image matrix manipulation and machine learning models for early glaucoma detection.
+*   **Optimization:** Attained a verified **85%+ diagnostic accuracy rate** by optimizing deep-level data ingestion structures.
+
+---
+
+### 🧠 Current Technical Focus
+*   **System Internals:** Researching distributed database storage engines, custom relational schemas, and memory management.
+*   **Cloud Architecture:** Deepening production-level AWS cloud design patterns (AWS Cloud Practitioner tracking).
+*   **Algorithmic Puzzles:** Actively solving advanced data structures and concurrency challenges.
+
+---
+
+<div align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.” — Keep it clean, keep it scalable.</em>
+</div>
